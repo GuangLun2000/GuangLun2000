@@ -1,5 +1,5 @@
 ## About Me
-Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is [my academic website](https//caihanlin.com).
+Hi 👋 My name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is [my academic website](https://caihanlin.com).
 
 **I'm looking for a Summer Research Internship Position (From June to Sep).** 🍺 Here is my email: hanlin.cai@ieee.org
 
