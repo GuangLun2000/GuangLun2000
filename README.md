@@ -1,13 +1,11 @@
 ## About Me
-Hi, my name is **Hanlin Cai (Lance, 蔡汉霖)**. Here is [my academic website](https://caihanlin.com).
+Hi, my name is **Hanlin Cai**. Here is [my website](https://caihanlin.com).
 
-**I am actively searching for a PhD program, please contact me!** Here is my email: hanlin.cai@ieee.org
-
-I am a junior majoring in **Automation** at [Fuzhou University](https://www.fzu.edu.cn/ ) (China) and **Robotics** at [Maynooth University](https://maynoothuniversity.ie/) (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).
+I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my CV](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 - Industrial IoT System
+- Bluetooth Low Energy
 - Applied Machine Learning
-- Bionic Quadruped Robot
 
-**[Highlight]** I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
