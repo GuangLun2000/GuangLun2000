@@ -8,4 +8,4 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 [My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈
 
-[Jan 2026] I am open to internship!
+**[Jan 2026] I am open to internship!**
