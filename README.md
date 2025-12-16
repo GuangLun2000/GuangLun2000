@@ -4,6 +4,6 @@ I am a first-year PhD student in the Internet of Everything Group at the Univers
 
 Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of Prof. Zhezhuang Xu and Dr. Meng Yuan. Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
 
-I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at hc663 [at] cam.ac.uk
+I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at `hc663[at]cam.ac.uk`
 
 [My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈 **[Jan 2026] I am currently open to internship!**
