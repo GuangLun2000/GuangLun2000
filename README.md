@@ -7,3 +7,5 @@ Prior to joining Cambridge, I worked on wireless networks and cybersecurity unde
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at `hc663[at]cam.ac.uk`
 
 [My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈 **[Jan 2026] I am currently open to internship!**
+
+![Hanlin Cai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuangLun2000&show_icons=true&theme=transparent)
