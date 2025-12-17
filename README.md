@@ -11,5 +11,3 @@ I am always open to academic discussions and potential collaborations. Please fe
 <br>
 
 ![Hanlin Cai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuangLun2000&show_icons=true&theme=transparent)
-
-<br>
