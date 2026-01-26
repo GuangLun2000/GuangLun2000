@@ -6,4 +6,6 @@ Prior to joining Cambridge, I worked on wireless networks and cybersecurity unde
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at `hc663[at]cam.ac.uk`
 
-[My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈 **[Jan 2026] I am currently open to internship!**
+[My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈
+
+**[Jan 2026] I am currently open to internship! My Email: hc663[at]cam.ac.uk**
