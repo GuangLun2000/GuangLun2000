@@ -9,3 +9,5 @@ I am always open to academic discussions and potential collaborations. Please fe
 [My personal website](https://caihanlin.com) 👈 [中文版本](https://caihanlin.com/cn/) 👈
 
 **[Jan 2026] I am currently open to internship! My Email: hc663[at]cam.ac.uk**
+
+我正在寻找暑期实习机会，积极寻找研究合作，期待交流！我的邮箱是: hc663[at]cam.ac.uk
